@@ -1,0 +1,12 @@
+{
+  "name": "@test/mobile",
+  "version": "1.0.0",
+  "private": true,
+  "installConfig": {
+    "hoistingLimits": "workspaces"
+  },
+  "dependencies": {
+    "@test/shared": "*",
+    "react": "17.0.2"
+  }
+}
